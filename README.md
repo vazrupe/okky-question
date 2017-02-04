@@ -1,5 +1,8 @@
 # 개요
 OKKY에서 본 신입(?) 문제를 python3로 풀어봤습니다.
+
+6시간 정도 걸린듯 하네요 ㅎㅎ..
+
 문제 출처 : [#1](http://okky.kr/article/373177), [#2](http://okky.kr/article/302445)
 
 ## 작성 환경
